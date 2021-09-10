@@ -39,4 +39,9 @@ a {
           #header .inner #gnb li a:hover {
             background: #555 color #fff; }
 
+#visual {
+  width: 100%;
+  height: calc(100vh - 100px);
+  background: lightcyan; }
+
 /*# sourceMappingURL=style.css.map */
